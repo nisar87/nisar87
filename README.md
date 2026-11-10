@@ -55,9 +55,7 @@ And when it turns out useful, I put it here, free for anyone.
 
 ### Why I share them
 
-I don't think software always has to be a business. Sometimes a problem is interesting, a solution seems possible, and building it is reward enough. If it helps someone else along the way, even better.
-
-So everything here is free and open source. I try to keep it honest, too: each project says plainly what it can and can't do yet, and I keep improving them long after they first work.
+Sometimes a problem is interesting, a solution seems possible, and building it is reward enough. So everything here is free and open source, and each project says plainly what it can and can't do yet.
 
 > *Not every project needs a business plan.<br>Some just need a good question and a free evening.*
 
