@@ -1,70 +1,50 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="I build the tools I wish already existed. Notice, wonder, build, share, repeat." src="assets/header-light.svg" width="100%">
-</picture>
+<a href="https://nisarworks.com/"><img src="assets/header.svg" width="100%" alt="Nisarworks. Small annoyances, turned into software. A home for the tools I build because I wanted them to exist. Visit nisarworks.com."></a>
 
-### Hi, thanks for stopping by.
+### Hi, I'm Nisar. Thanks for stopping by.
 
 Most of what I build starts with a small annoyance: something that's missing, a step that's slower than it should be, a job I keep doing by hand. Sometimes I need the fix myself. Sometimes the idea is just too interesting to leave alone.
 
-And when it turns out useful, I put it here, free for anyone.
-
-<br>
-
-### How it usually goes
-
-**Notice.** Something small gets in the way. Then it does it again.<br>
-**Wonder.** Is there a simple tool for this? If not, why not? Could I make one?<br>
-**Build.** My favorite part. Lots of trying, breaking things, and learning something new.<br>
-**Share.** If it helped me, it might help you too. So it goes up here.<br>
-**Repeat.** "It works" is rarely the end. There's usually a better way, and I like finding it.
+When it turns out useful, I put it on **[nisarworks.com](https://nisarworks.com/)**, the home for everything I make.
 
 <br>
 
 ### Things I've built
 
-<table>
-  <tr>
-    <td width="64" align="center"><img src="assets/netmerge.svg" width="44" alt=""></td>
-    <td>
-      <a href="https://github.com/nisar87/netmerge"><b>NetMerge</b></a><br>
-      Two internet connections at home, but only one doing any work? NetMerge puts them all to use at once on Windows 11, with per-app control, usage tracking, and sharing with your phone. No extra hardware, no paid service.<br>
-      <sub>Windows 11 · MIT · actively updated</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="64" align="center"><img src="assets/pullwell.svg" width="44" alt=""></td>
-    <td>
-      <a href="https://github.com/nisar87/pullwell"><b>Pullwell</b></a><br>
-      A download manager for Windows that doesn't give up halfway. It resumes after crashes and dropped connections, checks that every finished file is actually complete, and sends no telemetry.<br>
-      <sub>Windows 10 &amp; 11 · MIT · early releases, in daily use</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="64" align="center"><img src="assets/clearwrite.svg" width="44" alt=""></td>
-    <td>
-      <a href="https://github.com/nisar87/ClearWrite"><b>ClearWrite</b></a><br>
-      A writing assistant for Windows that checks your spelling and grammar right on your own computer, with no account or internet connection needed. AI help is there if you want it, and only if you turn it on.<br>
-      <sub>Windows · MIT · beta</sub>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://nisarworks.com/products/netmerge/"><img src="assets/netmerge.svg" width="49%" alt="NetMerge: Every internet line you have, working at once. Released, Windows 11."></a>
+  <a href="https://nisarworks.com/products/netmerge-android/"><img src="assets/netmerge-android.svg" width="49%" alt="NetMerge for Android: Wi-Fi and mobile data, at the same time. Beta, Android 10 and newer."></a>
+  <a href="https://nisarworks.com/products/pullwell/"><img src="assets/pullwell.svg" width="49%" alt="Pullwell: Downloads that finish. Early releases, Windows 10 and 11."></a>
+  <a href="https://nisarworks.com/products/ai-cv-studio/"><img src="assets/ai-cv-studio.svg" width="49%" alt="AI CV Studio: Your CV, redesigned in minutes. Live, Any modern browser."></a>
+  <a href="https://nisarworks.com/products/clearwrite/"><img src="assets/clearwrite.svg" width="49%" alt="ClearWrite: A proofreader that stays on your PC. Beta, Windows."></a>
+  <a href="https://nisarworks.com/products/vox/"><img src="assets/vox.svg" width="49%" alt="Vox: Say it. Your PC does it. Early releases, Windows 11."></a>
+</p>
+
+Each one has its own page with screenshots, what it does and what it can't do yet. **[See them all at nisarworks.com/products](https://nisarworks.com/products/)**
 
 <br>
 
-### Why I share them
+### How it usually goes
 
-Sometimes a problem is interesting, a solution seems possible, and building it is reward enough. So everything here is free and open source, and each project says plainly what it can and can't do yet.
+<a href="https://nisarworks.com/about/"><img src="assets/loop.svg" width="100%" alt="Notice, wonder, build, share, repeat."></a>
 
-> *Not every project needs a business plan.<br>Some just need a good question and a free evening.*
+**Notice.** Something small gets in the way. Then it does it again.<br>
+**Wonder.** Is there a simple tool for this? If not, could I make one?<br>
+**Build.** My favourite part. Lots of trying, breaking things and learning.<br>
+**Share.** If it helped me, it might help you. So it goes up here.<br>
+**Repeat.** "It works" is rarely the end. There is usually a better way.
+
+<br>
+
+<img src="assets/quote.svg" width="100%" alt="Not every project needs a business plan. Some just need a good question and a free evening.">
 
 <br>
 
 ### Come say hi
 
-Use anything you find here. If something breaks or could work better, open an issue; pull requests are even more welcome. And if a small problem has been bugging you lately, tell me about it. Chances are I'll find it interesting too.
+Use anything you find here. If something breaks or could work better, open an issue on its repository. And if a small problem has been bugging you lately, tell me about it. Chances are I'll find it interesting too.
 
-<br>
+<p align="center">
+  <a href="https://nisarworks.com/"><b>nisarworks.com</b></a> &nbsp;·&nbsp; <a href="https://nisarworks.com/products/">Products</a> &nbsp;·&nbsp; <a href="https://nisarworks.com/about/">About</a>
+</p>
 
 <p align="center"><sub>Built for the fun of it. Shared in case it helps.</sub></p>
