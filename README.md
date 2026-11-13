@@ -23,6 +23,14 @@ Each one has its own page with screenshots, what it does and what it can't do ye
 
 <br>
 
+### See one working
+
+<a href="https://nisarworks.com/products/netmerge/"><img src="assets/netmerge-overview.gif" width="100%" alt="A short loop of NetMerge's Overview: two internet connections flowing into NetMerge at their measured speeds, beside a combined speed gauge."></a>
+
+<sub>NetMerge's Overview, recorded from the real window with made-up connection data. <a href="https://nisarworks.com/products/netmerge/">Watch the 78-second tour on its page.</a></sub>
+
+<br>
+
 ### How it usually goes
 
 <a href="https://nisarworks.com/about/"><img src="assets/loop.svg" width="100%" alt="Notice, wonder, build, share, repeat."></a>
