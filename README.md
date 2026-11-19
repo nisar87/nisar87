@@ -31,6 +31,15 @@ Each one has its own page with screenshots, what it does and what it can't do ye
 
 <br>
 
+### On the bench
+
+Not finished, so no download yet. The work happens in the open.
+
+**[OrbitDrive](https://github.com/nisar87/OrbitDrive).** Browse the folders you choose to share from your Windows PC, and send files to your phone, from a web page. In development.<br>
+**[Job Apply Agent](https://github.com/nisar87/job-apply-agent).** Describe your job search in plain language, and an agent finds, scores and applies to jobs from your own Gmail account. In development.
+
+<br>
+
 ### How it usually goes
 
 <a href="https://nisarworks.com/about/"><img src="assets/loop.svg" width="100%" alt="Notice, wonder, build, share, repeat."></a>
