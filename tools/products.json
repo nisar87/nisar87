@@ -1,5 +1,35 @@
 [
   {
+    "slug": "ai-cv-studio",
+    "name": "AI CV Studio",
+    "tagline": "Your CV, redesigned in minutes.",
+    "category": "Documents",
+    "platformNote": "Any modern browser",
+    "status": {
+      "kind": "live",
+      "label": "Live"
+    },
+    "accent": "#ecdcb8",
+    "accent2": "#58b596",
+    "mark": "<path d=\"M14 9h14l6 6v24H14z\"/><circle cx=\"24\" cy=\"21\" r=\"3.2\"/><path d=\"M18.5 32c0-5 11-5 11 0\"/>",
+    "annoyance": "Good experience, hidden behind a tired CV."
+  },
+  {
+    "slug": "orbitdrive",
+    "name": "MyOrbitDrive",
+    "tagline": "Your PC files, wherever you are.",
+    "category": "Files",
+    "platformNote": "Windows PC, and any browser",
+    "status": {
+      "kind": "live",
+      "label": "Live · early version"
+    },
+    "accent": "#5cc8f0",
+    "accent2": "#8c7cf5",
+    "mark": "<circle cx=\"24\" cy=\"24\" r=\"5.5\"/><ellipse cx=\"24\" cy=\"24\" rx=\"17\" ry=\"7.5\" transform=\"rotate(-28 24 24)\"/><circle cx=\"38.6\" cy=\"15.6\" r=\"2.4\"/>",
+    "annoyance": "The file is on the PC at home. You are not."
+  },
+  {
     "slug": "netmerge",
     "name": "NetMerge",
     "tagline": "Every internet line you have, working at once.",
@@ -45,21 +75,6 @@
     "annoyance": "A download that dies at 94%."
   },
   {
-    "slug": "ai-cv-studio",
-    "name": "AI CV Studio",
-    "tagline": "Your CV, redesigned in minutes.",
-    "category": "Documents",
-    "platformNote": "Any modern browser",
-    "status": {
-      "kind": "live",
-      "label": "Live"
-    },
-    "accent": "#ecdcb8",
-    "accent2": "#58b596",
-    "mark": "<path d=\"M14 9h14l6 6v24H14z\"/><circle cx=\"24\" cy=\"21\" r=\"3.2\"/><path d=\"M18.5 32c0-5 11-5 11 0\"/>",
-    "annoyance": "Good experience, hidden behind a tired CV."
-  },
-  {
     "slug": "clearwrite",
     "name": "ClearWrite",
     "tagline": "A proofreader that stays on your PC.",
@@ -88,20 +103,5 @@
     "accent2": "#f5a742",
     "mark": "<rect x=\"19\" y=\"9\" width=\"10\" height=\"18\" rx=\"5\"/><path d=\"M13 23a11 11 0 0 0 22 0M24 34v5\"/>",
     "annoyance": "Doing by hand what I could just say."
-  },
-  {
-    "slug": "orbitdrive",
-    "name": "MyOrbitDrive",
-    "tagline": "Your PC files, wherever you are.",
-    "category": "Files",
-    "platformNote": "Windows PC, and any browser",
-    "status": {
-      "kind": "beta",
-      "label": "Preview"
-    },
-    "accent": "#5cc8f0",
-    "accent2": "#8c7cf5",
-    "mark": "<circle cx=\"24\" cy=\"24\" r=\"5.5\"/><ellipse cx=\"24\" cy=\"24\" rx=\"17\" ry=\"7.5\" transform=\"rotate(-28 24 24)\"/><circle cx=\"38.6\" cy=\"15.6\" r=\"2.4\"/>",
-    "annoyance": "The file is on the PC at home. You are not."
   }
 ]
